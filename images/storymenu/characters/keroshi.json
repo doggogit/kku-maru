@@ -1,0 +1,14 @@
+{
+    "antialiasing": true,
+    "scale": 1,
+    "imagePath": "keroshi",
+    "anims": [
+        {
+            "animName": "idle",
+            "animFile": "idle",
+            "loop": true,
+            "offsets": [0, 12]
+        }
+    ],
+    "lerpColor": false
+}

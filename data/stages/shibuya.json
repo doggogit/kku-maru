@@ -1,0 +1,8 @@
+{
+    "library": "stage/shibuya",
+    "zoom": 0.6,
+    "gfOffsets": [180, 70],
+    "dadOffsets": [-200, 50],
+    "bfOffsets": [770, 80],
+    "startCamOffsets": [-800, -400]
+}

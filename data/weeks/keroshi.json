@@ -1,0 +1,14 @@
+{
+    "songList":
+    {
+        "songs": ["Murder Dance"],
+        "songIcon": ["keroshi"],
+        "songColors": ["0xFFFF3434"]
+    },
+    "weekDiffs": ["normal"],
+    "weekName": "KeroKero Underground ft. Honkish",
+    "weekImage": "keroshi",
+    "weekColor": "0xFFFF3434",
+    "storyCharacters": ["keroshi", "bf", "gf"],
+    "startUnlocked": true
+}
