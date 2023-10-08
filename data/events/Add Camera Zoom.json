@@ -1,0 +1,7 @@
+{
+    "description": "Adds to current cam zoom\n\nValue 1: zoom to add to game\n\nValue 2: zoom to add to HUD",
+    "values": [
+        "",
+        ""
+    ]
+}
