@@ -7,10 +7,7 @@
             "animName": "idle",
             "animFile": "idle",
             "loop": true,
-            "offsets": [
-                50,
-                5
-            ]
+            "offsets": [50,5]
         }
     ],
     "lerpColor": false

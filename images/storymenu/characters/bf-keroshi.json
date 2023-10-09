@@ -6,10 +6,7 @@
         {
             "animName": "idle",
             "animFile": "BF idle dance",
-            "offsets": [
-                25,
-                15
-            ],
+            "offsets": [25,15],
             "loop": true
         }
     ],
