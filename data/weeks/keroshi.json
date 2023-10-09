@@ -9,6 +9,6 @@
     "weekName": "KeroKero Underground ft. Honkish",
     "weekImage": "keroshi",
     "weekColor": "0xFFFF3434",
-    "storyCharacters": ["keroshi", "bf", "gf"],
+    "storyCharacters": ["keroshi", "bf-keroshi", "gf-yellow"],
     "startUnlocked": true
 }
