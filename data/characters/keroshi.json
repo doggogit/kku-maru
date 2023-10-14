@@ -1,28 +1,13 @@
 {
 	"imagePath": "characters/keroshi/keroshi",
-	"isGF": false,
+	"camOffsets": [-270,200],
 	"icon": "keroshi",
-	"camOffsets": [
-		-180,
-		80
-	],
+	"isGF": false,
+	"scale": 0.95,
+	"charOffsets": [0,40],
 	"anims": [
 		{
-			"offsets": [
-				85,
-				67
-			],
-			"indices": [],
-			"loop": false,
-			"framerate": 24,
-			"animFile": "dumb idle",
-			"animName": "idle"
-		},
-		{
-			"offsets": [
-				164,
-				62
-			],
+			"offsets": [164,62],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -30,21 +15,15 @@
 			"animName": "hey"
 		},
 		{
-			"offsets": [
-				68,
-				1
-			],
+			"offsets": [85,67],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
-			"animFile": "dumb right",
-			"animName": "singRIGHT"
+			"animFile": "dumb idle",
+			"animName": "idle"
 		},
 		{
-			"offsets": [
-				90,
-				-122
-			],
+			"offsets": [90,-122],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -52,21 +31,23 @@
 			"animName": "singDOWN"
 		},
 		{
-			"offsets": [
-				228,
-				36
-			],
+			"offsets": [68,1],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
-			"animFile": "dumb left",
-			"animName": "singLEFT"
+			"animFile": "dumb right",
+			"animName": "singRIGHT"
 		},
 		{
-			"offsets": [
-				88,
-				70
-			],
+			"offsets": [104,166],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "dumb up",
+			"animName": "singUP"
+		},
+		{
+			"offsets": [88,70],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -74,25 +55,17 @@
 			"animName": "haha"
 		},
 		{
-			"offsets": [
-				104,
-				166
-			],
+			"offsets": [228,36],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
-			"animFile": "dumb up",
-			"animName": "singUP"
+			"animFile": "dumb left",
+			"animName": "singLEFT"
 		}
 	],
-	"charOffsets": [
-		0,
-		40
-	],
-	"scale": 0.95,
-	"isPlayer": false,
 	"flipX": false,
-	"gameOverChar": "bf-dead",
+	"isPlayer": false,
 	"antialiasing": true,
+	"gameOverChar": "bf-dead",
 	"gameOverSuffix": ""
 }
