@@ -1,12 +1,18 @@
 {
 	"imagePath": "characters/keroshi/bf/bf-keroshi",
 	"isGF": false,
-	"camOffsets": [360,290],
+	"camOffsets": [
+		360,
+		290
+	],
 	"icon": "bf",
 	"scale": 1,
 	"anims": [
 		{
-			"offsets": [294,267],
+			"offsets": [
+				294,
+				267
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -14,7 +20,10 @@
 			"animName": "attack"
 		},
 		{
-			"offsets": [-4,0],
+			"offsets": [
+				-4,
+				0
+			],
 			"indices": [],
 			"loop": true,
 			"framerate": 24,
@@ -22,7 +31,10 @@
 			"animName": "scared"
 		},
 		{
-			"offsets": [-44,13],
+			"offsets": [
+				-44,
+				13
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -30,7 +42,10 @@
 			"animName": "singRIGHTmiss"
 		},
 		{
-			"offsets": [-15,-50],
+			"offsets": [
+				-15,
+				-50
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -38,7 +53,10 @@
 			"animName": "singDOWN"
 		},
 		{
-			"offsets": [-30,-46],
+			"offsets": [
+				-30,
+				-46
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -46,7 +64,10 @@
 			"animName": "pre-attack"
 		},
 		{
-			"offsets": [9,9],
+			"offsets": [
+				9,
+				9
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -54,7 +75,10 @@
 			"animName": "singLEFTmiss"
 		},
 		{
-			"offsets": [-41,12],
+			"offsets": [
+				-41,
+				12
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -62,7 +86,10 @@
 			"animName": "singUP"
 		},
 		{
-			"offsets": [-3,-5],
+			"offsets": [
+				-3,
+				-5
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -70,7 +97,10 @@
 			"animName": "hey"
 		},
 		{
-			"offsets": [-5,0],
+			"offsets": [
+				-5,
+				0
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -78,7 +108,10 @@
 			"animName": "idle"
 		},
 		{
-			"offsets": [-36,0],
+			"offsets": [
+				-36,
+				0
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -86,7 +119,10 @@
 			"animName": "singRIGHT"
 		},
 		{
-			"offsets": [-15,-29],
+			"offsets": [
+				-15,
+				-29
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -94,7 +130,10 @@
 			"animName": "singDOWNmiss"
 		},
 		{
-			"offsets": [7,-14],
+			"offsets": [
+				7,
+				-14
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -102,7 +141,10 @@
 			"animName": "singLEFT"
 		},
 		{
-			"offsets": [-36,7],
+			"offsets": [
+				-36,
+				7
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -110,7 +152,10 @@
 			"animName": "singUPmiss"
 		},
 		{
-			"offsets": [-10,-16],
+			"offsets": [
+				-10,
+				-16
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -118,7 +163,10 @@
 			"animName": "dodge"
 		},
 		{
-			"offsets": [14,10],
+			"offsets": [
+				14,
+				10
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -126,7 +174,10 @@
 			"animName": "hurt"
 		}
 	],
-	"charOffsets": [0,0],
+	"charOffsets": [
+		0,
+		0
+	],
 	"isPlayer": true,
 	"flipX": true,
 	"gameOverChar": "bf-dead",

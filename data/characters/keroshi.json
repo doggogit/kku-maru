@@ -2,10 +2,16 @@
 	"imagePath": "characters/keroshi/keroshi",
 	"isGF": false,
 	"icon": "keroshi",
-	"camOffsets": [-180,80],
+	"camOffsets": [
+		-180,
+		80
+	],
 	"anims": [
 		{
-			"offsets": [85,67],
+			"offsets": [
+				85,
+				67
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -13,7 +19,10 @@
 			"animName": "idle"
 		},
 		{
-			"offsets": [164,62],
+			"offsets": [
+				164,
+				62
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -21,7 +30,10 @@
 			"animName": "hey"
 		},
 		{
-			"offsets": [68,1],
+			"offsets": [
+				68,
+				1
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -29,7 +41,10 @@
 			"animName": "singRIGHT"
 		},
 		{
-			"offsets": [90,-122],
+			"offsets": [
+				90,
+				-122
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -37,7 +52,10 @@
 			"animName": "singDOWN"
 		},
 		{
-			"offsets": [228,36],
+			"offsets": [
+				228,
+				36
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -45,7 +63,10 @@
 			"animName": "singLEFT"
 		},
 		{
-			"offsets": [88,70],
+			"offsets": [
+				88,
+				70
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -53,7 +74,10 @@
 			"animName": "haha"
 		},
 		{
-			"offsets": [104,166],
+			"offsets": [
+				104,
+				166
+			],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -61,7 +85,10 @@
 			"animName": "singUP"
 		}
 	],
-	"charOffsets": [0,40],
+	"charOffsets": [
+		0,
+		40
+	],
 	"scale": 0.95,
 	"isPlayer": false,
 	"flipX": false,
