@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Free texture packer v0.6.7 http://free-tex-packer.com -->
-<TextureAtlas imagePath="keroshi.png" width="4729" height="4449">
-  <SubTexture name="dumb down0000" x="4" y="4" width="735" height="731" frameX="-0" frameY="-5" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0002" x="747" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0004" x="1481" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0006" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb right0000" x="2949" y="4" width="718" height="810" frameX="-2" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0002" x="3675" y="4" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0004" x="4" y="743" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0006" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb idle0000" x="1446" y="747" width="633" height="853" frameX="-0" frameY="-24" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0002" x="2087" y="747" width="622" height="867" frameX="-2" frameY="-11" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb point0002" x="2717" y="822" width="666" height="867" frameX="-8" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0004" x="3391" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0006" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb laugh0002" x="4" y="1562" width="635" height="870" frameX="-0" frameY="-12" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0006" x="647" y="1566" width="633" height="871" frameX="-0" frameY="-11" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0008" x="1288" y="1608" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0010" x="1931" y="1622" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0012" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb left0002" x="3217" y="1698" width="733" height="873" frameX="-6" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0004" x="3958" y="1698" width="713" height="873" frameX="-26" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb idle0004" x="4" y="2440" width="617" height="876" frameX="-3" frameY="-2" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb laugh0004" x="629" y="2445" width="615" height="876" frameX="-7" frameY="-6" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb point0000" x="1252" y="2489" width="670" height="873" frameX="-0" frameY="-0" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb idle0006" x="1930" y="2503" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb left0006" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0000" x="3276" y="2579" width="721" height="874" frameX="-17" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb idle0008" x="4005" y="2579" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb laugh0000" x="4" y="3324" width="615" height="881" frameX="-7" frameY="-1" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb up0002" x="627" y="3329" width="530" height="973" frameX="-0" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0004" x="1165" y="3370" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0006" x="1702" y="3389" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0000" x="2239" y="3460" width="519" height="985" frameX="-7" frameY="-0" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb down0001" x="4" y="4" width="735" height="731" frameX="-0" frameY="-5" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0003" x="747" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0005" x="1481" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0007" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0008" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0009" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0010" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0011" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0012" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb down0013" x="2215" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
-  <SubTexture name="dumb idle0001" x="1446" y="747" width="633" height="853" frameX="-0" frameY="-24" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0003" x="2087" y="747" width="622" height="867" frameX="-2" frameY="-11" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0005" x="4" y="2440" width="617" height="876" frameX="-3" frameY="-2" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0007" x="1930" y="2503" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0009" x="4005" y="2579" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0010" x="4005" y="2579" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0011" x="4005" y="2579" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0012" x="4005" y="2579" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb idle0013" x="4005" y="2579" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
-  <SubTexture name="dumb laugh0001" x="4" y="3324" width="615" height="881" frameX="-7" frameY="-1" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0003" x="4" y="1562" width="635" height="870" frameX="-0" frameY="-12" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0005" x="629" y="2445" width="615" height="876" frameX="-7" frameY="-6" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0007" x="647" y="1566" width="633" height="871" frameX="-0" frameY="-11" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0009" x="1288" y="1608" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0011" x="1931" y="1622" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0013" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0014" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0015" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0016" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0017" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0018" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0019" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0020" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0021" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0022" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0023" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb laugh0024" x="2574" y="1697" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
-  <SubTexture name="dumb left0001" x="3276" y="2579" width="721" height="874" frameX="-17" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0003" x="3217" y="1698" width="733" height="873" frameX="-6" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0005" x="3958" y="1698" width="713" height="873" frameX="-26" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0007" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0008" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0009" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0010" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0011" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0012" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb left0013" x="2554" y="2579" width="714" height="873" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
-  <SubTexture name="dumb point0001" x="1252" y="2489" width="670" height="873" frameX="-0" frameY="-0" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0003" x="2717" y="822" width="666" height="867" frameX="-8" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0005" x="3391" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0007" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0008" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0009" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0010" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0011" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0012" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb point0013" x="4062" y="823" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
-  <SubTexture name="dumb right0001" x="2949" y="4" width="718" height="810" frameX="-2" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0003" x="3675" y="4" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0005" x="4" y="743" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0007" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0008" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0009" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0010" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0011" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0012" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb right0013" x="725" y="747" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
-  <SubTexture name="dumb up0001" x="2239" y="3460" width="519" height="985" frameX="-7" frameY="-0" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0003" x="627" y="3329" width="530" height="973" frameX="-0" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0005" x="1165" y="3370" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0007" x="1702" y="3389" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0008" x="1702" y="3389" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0009" x="1702" y="3389" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0010" x="1702" y="3389" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0011" x="1702" y="3389" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
-  <SubTexture name="dumb up0012" x="1702" y="3389" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+<TextureAtlas imagePath="keroshi.png" width="5759" height="3517">
+  <SubTexture name="dumb up0000" x="4" y="4" width="519" height="985" frameX="-7" frameY="-0" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0006" x="531" y="4" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0004" x="4" y="997" width="973" height="529" rotated="true" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0002" x="1068" y="4" width="530" height="973" frameX="-0" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb laugh0000" x="4" y="1534" width="881" height="615" rotated="true" frameX="-7" frameY="-1" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb idle0006" x="1606" y="4" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0008" x="1606" y="890" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb laugh0004" x="4" y="2157" width="876" height="615" rotated="true" frameX="-7" frameY="-6" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb idle0004" x="893" y="1534" width="617" height="876" frameX="-3" frameY="-2" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb left0000" x="2230" y="4" width="721" height="874" frameX="-17" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb laugh0008" x="2230" y="886" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0010" x="2230" y="1767" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0012" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb left0002" x="4" y="2780" width="873" height="733" rotated="true" frameX="-6" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0004" x="885" y="2780" width="873" height="713" rotated="true" frameX="-26" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0006" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb point0000" x="2959" y="4" width="670" height="873" frameX="-0" frameY="-0" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb laugh0006" x="2959" y="885" width="633" height="871" frameX="-0" frameY="-11" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0002" x="2647" y="2648" width="870" height="635" rotated="true" frameX="-0" frameY="-12" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb point0002" x="2873" y="1764" width="666" height="867" frameX="-8" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0006" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb idle0002" x="3525" y="2639" width="622" height="867" frameX="-2" frameY="-11" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb point0004" x="3547" y="1764" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb idle0000" x="3600" y="885" width="633" height="853" frameX="-0" frameY="-24" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb right0002" x="4308" y="4" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0004" x="4308" y="823" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0006" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0000" x="4241" y="1642" width="718" height="810" frameX="-2" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb down0002" x="5029" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0006" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0004" x="5029" y="1490" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0000" x="4974" y="2233" width="735" height="731" frameX="-0" frameY="-5" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0001" x="4974" y="2233" width="735" height="731" frameX="-0" frameY="-5" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0003" x="5029" y="4" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0005" x="5029" y="1490" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0007" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0008" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0009" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0010" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0011" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0012" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb down0013" x="5029" y="747" width="726" height="735" frameX="-6" frameY="-1" frameWidth="735" frameHeight="736" />
+  <SubTexture name="dumb idle0001" x="3600" y="885" width="633" height="853" frameX="-0" frameY="-24" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0003" x="3525" y="2639" width="622" height="867" frameX="-2" frameY="-11" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0005" x="893" y="1534" width="617" height="876" frameX="-3" frameY="-2" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0007" x="1606" y="4" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0009" x="1606" y="890" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0010" x="1606" y="890" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0011" x="1606" y="890" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0012" x="1606" y="890" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb idle0013" x="1606" y="890" width="616" height="878" frameX="-4" frameY="-0" frameWidth="633" frameHeight="878" />
+  <SubTexture name="dumb laugh0001" x="4" y="1534" width="881" height="615" rotated="true" frameX="-7" frameY="-1" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0003" x="2647" y="2648" width="870" height="635" rotated="true" frameX="-0" frameY="-12" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0005" x="4" y="2157" width="876" height="615" rotated="true" frameX="-7" frameY="-6" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0007" x="2959" y="885" width="633" height="871" frameX="-0" frameY="-11" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0009" x="2230" y="886" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0011" x="2230" y="1767" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0013" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0014" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0015" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0016" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0017" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0018" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0019" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0020" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0021" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0022" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0023" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb laugh0024" x="1518" y="1776" width="635" height="873" frameX="-0" frameY="-9" frameWidth="635" frameHeight="882" />
+  <SubTexture name="dumb left0001" x="2230" y="4" width="721" height="874" frameX="-17" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0003" x="4" y="2780" width="873" height="733" rotated="true" frameX="-6" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0005" x="885" y="2780" width="873" height="713" rotated="true" frameX="-26" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0007" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0008" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0009" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0010" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0011" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0012" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb left0013" x="1766" y="2657" width="873" height="714" rotated="true" frameX="-25" frameY="-0" frameWidth="740" frameHeight="874" />
+  <SubTexture name="dumb point0001" x="2959" y="4" width="670" height="873" frameX="-0" frameY="-0" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0003" x="2873" y="1764" width="666" height="867" frameX="-8" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0005" x="3547" y="1764" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0007" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0008" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0009" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0010" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0011" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0012" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb point0013" x="3637" y="4" width="663" height="867" frameX="-11" frameY="-6" frameWidth="1141" frameHeight="873" />
+  <SubTexture name="dumb right0001" x="4241" y="1642" width="718" height="810" frameX="-2" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0003" x="4308" y="4" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0005" x="4308" y="823" width="713" height="811" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0007" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0008" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0009" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0010" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0011" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0012" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb right0013" x="4155" y="2639" width="811" height="713" rotated="true" frameX="-0" frameY="-0" frameWidth="720" frameHeight="811" />
+  <SubTexture name="dumb up0001" x="4" y="4" width="519" height="985" frameX="-7" frameY="-0" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0003" x="1068" y="4" width="530" height="973" frameX="-0" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0005" x="4" y="997" width="973" height="529" rotated="true" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0007" x="531" y="4" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0008" x="531" y="4" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0009" x="531" y="4" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0010" x="531" y="4" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0011" x="531" y="4" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
+  <SubTexture name="dumb up0012" x="531" y="4" width="529" height="973" frameX="-1" frameY="-13" frameWidth="530" frameHeight="986" />
 </TextureAtlas>

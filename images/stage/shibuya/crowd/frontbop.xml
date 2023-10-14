@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Free texture packer v0.6.7 http://free-tex-packer.com -->
-<TextureAtlas imagePath="frontbop.png" width="1870" height="3126">
+<TextureAtlas imagePath="frontbop.png" width="3733" height="1564">
   <SubTexture name="frontbop0000" x="4" y="4" width="1862" height="765" frameX="-0" frameY="-15" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0002" x="4" y="777" width="1855" height="769" frameX="-3" frameY="-12" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0006" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0004" x="4" y="2343" width="1852" height="779" frameX="-5" frameY="-2" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0002" x="1874" y="4" width="1855" height="769" frameX="-3" frameY="-12" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0006" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0004" x="1864" y="781" width="1852" height="779" frameX="-5" frameY="-2" frameWidth="1862" frameHeight="781" />
   <SubTexture name="frontbop0001" x="4" y="4" width="1862" height="765" frameX="-0" frameY="-15" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0003" x="4" y="777" width="1855" height="769" frameX="-3" frameY="-12" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0005" x="4" y="2343" width="1852" height="779" frameX="-5" frameY="-2" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0007" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0008" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0009" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0010" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0011" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0012" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
-  <SubTexture name="frontbop0013" x="4" y="1554" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0003" x="1874" y="4" width="1855" height="769" frameX="-3" frameY="-12" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0005" x="1864" y="781" width="1852" height="779" frameX="-5" frameY="-2" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0007" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0008" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0009" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0010" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0011" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0012" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
+  <SubTexture name="frontbop0013" x="4" y="777" width="1852" height="781" frameX="-5" frameY="-0" frameWidth="1862" frameHeight="781" />
 </TextureAtlas>

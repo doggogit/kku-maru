@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Free texture packer v0.6.7 http://free-tex-packer.com -->
-<TextureAtlas imagePath="gf-yellow.png" width="3540" height="2593">
+<TextureAtlas imagePath="gf-keroshi.png" width="3540" height="2593">
   <SubTexture name="GF Dancing Beat0003" x="4" y="4" width="703" height="632" frameX="-0" frameY="-16" frameWidth="703" frameHeight="648" />
   <SubTexture name="GF Dancing Beat0004" x="715" y="4" width="698" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648" />
   <SubTexture name="GF Dancing Beat0001" x="1421" y="4" width="698" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648" />

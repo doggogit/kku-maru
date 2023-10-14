@@ -1,13 +1,13 @@
 {
     "antialiasing": true,
-    "scale": 1,
-    "imagePath": "keroshi",
+    "scale": 0.5,
+    "imagePath": "gf-keroshi",
     "anims": [
         {
             "animName": "idle",
-            "animFile": "idle",
+            "animFile": "GF Dancing Beat",
             "loop": true,
-            "offsets": [0,12]
+            "offsets": [100,125]
         }
     ],
     "lerpColor": false

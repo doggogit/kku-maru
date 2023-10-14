@@ -1,13 +1,18 @@
 {
     "antialiasing": true,
-    "scale": 0.85,
+    "scale": 0.9,
     "imagePath": "bf-keroshi",
     "anims": [
         {
             "animName": "idle",
-            "animFile": "BF idle dance",
+            "animFile": "idle",
             "offsets": [25,15],
             "loop": true
+        },
+        {
+            "animName": "confirm",
+            "animFile": "pressed",
+            "offsets": [25,20]
         }
     ],
     "lerpColor": false

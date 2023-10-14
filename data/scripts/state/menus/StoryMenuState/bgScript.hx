@@ -1,9 +1,9 @@
-var weekBGmap = ["keroshi" => "menu_shibuya"];
+var weekBGmap = ["keroshi" => "shibuya"];
 var bg:FunkinSprite;
 
 function stateCreate()
 {
-	bg = new FunkinSprite("storymenu/menubackground/menu_shibuya", [0, 56]);
+	bg = new FunkinSprite("storymenu/backgrounds/shibuya", [0, 56]);
 	insert(4, bg);
 	changeBG();
 }
@@ -16,7 +16,7 @@ function stateUpdate()
 
 function changeBG()
 {
-	var curWeek = State.storyWeeksNames[State.curWeek];
+	var curWeek = State.storyWeeks[State.curWeek].name;
 	bg.visible = false;
 	if (weekBGmap.exists(curWeek))
 	{
