@@ -40,7 +40,7 @@ function create()
 
 function startCountdown()
 {
-	PlayState.gfGroup.scrollFactor.set(1, 1);
+	State.gfGroup.scrollFactor.set(1, 1);
 }
 
 function beatHit()
