@@ -1,19 +1,9 @@
 {
 	"imagePath": "characters/keroshi/keroshi",
-	"camOffsets": [-270,200],
-	"icon": "keroshi",
 	"isGF": false,
-	"scale": 0.95,
-	"charOffsets": [0,40],
+	"icon": "keroshi",
+	"camOffsets": [-270,200],
 	"anims": [
-		{
-			"offsets": [164,62],
-			"indices": [],
-			"loop": false,
-			"framerate": 24,
-			"animFile": "dumb point",
-			"animName": "hey"
-		},
 		{
 			"offsets": [85,67],
 			"indices": [],
@@ -23,12 +13,12 @@
 			"animName": "idle"
 		},
 		{
-			"offsets": [90,-122],
+			"offsets": [164,62],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
-			"animFile": "dumb down",
-			"animName": "singDOWN"
+			"animFile": "dumb point",
+			"animName": "hey"
 		},
 		{
 			"offsets": [68,1],
@@ -39,12 +29,20 @@
 			"animName": "singRIGHT"
 		},
 		{
-			"offsets": [104,166],
+			"offsets": [90,-122],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
-			"animFile": "dumb up",
-			"animName": "singUP"
+			"animFile": "dumb down",
+			"animName": "singDOWN"
+		},
+		{
+			"offsets": [228,36],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "dumb left",
+			"animName": "singLEFT"
 		},
 		{
 			"offsets": [88,70],
@@ -55,17 +53,19 @@
 			"animName": "haha"
 		},
 		{
-			"offsets": [228,36],
+			"offsets": [104,166],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
-			"animFile": "dumb left",
-			"animName": "singLEFT"
+			"animFile": "dumb up",
+			"animName": "singUP"
 		}
 	],
-	"flipX": false,
+	"charOffsets": [0,40],
+	"scale": 0.95,
 	"isPlayer": false,
-	"antialiasing": true,
+	"flipX": false,
 	"gameOverChar": "bf-dead",
+	"antialiasing": true,
 	"gameOverSuffix": ""
 }
