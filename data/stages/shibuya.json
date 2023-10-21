@@ -1,5 +1,5 @@
 {
-    "library": "stage/shibuya",
+	"library": "stage/shibuya",
 	"zoom": 0.6,
 	"gfOffsets": [200,60],
 	"dadOffsets": [300,320],
